@@ -1,2 +1,1 @@
-<img width="2016" height="780" alt="Juice-Shop" src="https://github.com/user-attachments/assets/714df047-cbcd-4476-b751-6df0f9ed5169" />
-
+<img width="1080" height="417" alt="Juice-Shop (1)" src="https://github.com/user-attachments/assets/402ebe07-235c-479b-8793-1dffff8cd2ec" />
